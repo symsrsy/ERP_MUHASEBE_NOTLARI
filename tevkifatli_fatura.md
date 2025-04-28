@@ -40,7 +40,6 @@ Hizmet Olarak: İnşaat,bakım,temizlik,yemek,danışmanlık gibi alanlarda tevk
 
 # Tevkifatta Kullanılan Muhasebe Kodları
 
-# Tevkifatlı Fatura Muhasebe Kodları Özeti
 ## 1. Satın Alma (Alıcı) Tarafı
 | İşlem | Hesap Kodu |
 |:---|:---|
