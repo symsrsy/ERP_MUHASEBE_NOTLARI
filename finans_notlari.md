@@ -293,9 +293,9 @@ Bugün 1 USD = 30 TL ama firma 3 ay sonra ödeyeceği ithalat için 1 USD = 31 T
 
 • İki türü vardır:
 
-########## • Call Option: Satın alma hakkı
+##### • Call Option: Satın alma hakkı
 
-########## • Put Option: Satma hakkı
+##### • Put Option: Satma hakkı
 
 Kullanım alanı:
 
