@@ -435,5 +435,42 @@ Finansal tabloların birden fazla dönem boyunca izlenmesiyle, işletmenin genel
 
 Trend analizleri özellikle yatırımcılar için gelecek tahminleri açısından çok değerlidir. 
 
+# MUHASEBE MALİYET ESASI
+
+# Aktif - Pasif Dengesi ve Muhasebe Maliyet Esası
+
+## 1. Aktif ve Pasif Nedir?
+
+| Kavram  | Açıklama |
+|---------|----------|
+| **Aktif (Varlıklar)** | Şirketin sahip olduğu değerlerdir. Örn: nakit, bina, alacak, stok, araç, arsa vb. |
+| **Pasif (Kaynaklar)** | Bu varlıkların nasıl finanse edildiğini gösterir: borçlar + öz kaynaklar. |
+**Temel Denklem:**
+> Varlıklar (Aktif) = Kaynaklar (Pasif)
+Bu denklem, muhasebenin temel kuralıdır ve her bilançoda sağlanmalıdır.
+---
+## 2. Görselde Ne Anlatılıyor?
+
+### Tarih: 31.12.2020 – ABC Ltd.
+- Sol tarafta "Aktif" kısmında **100: Dönen Varlıklar**, **200: Duran Varlıklar** gibi başlıklar yer alıyor.
+- Sağ tarafta "Pasif" kısmında **300: Kısa Vadeli Borçlar**, **400: Uzun Vadeli Borçlar**, **500: Öz Kaynaklar** başlıkları var.
+### Örnek Durum:
+- Arazi/arsa değeri 1 milyon TL’den 10 milyon TL’ye çıkmış → **+9 milyon artış**
+- Bu artış **aktifleri büyütür**, çünkü şirketin sahip olduğu varlık değer kazanmıştır.
+- Aynı anda bu fark **öz kaynaklara “yeniden değerleme” hesabı olarak eklenir**.
+> Böylece Aktif = Pasif denkliği bozulmadan korunmuş olur.
+---
+## 3. Neden Önemli?
+- Muhasebede bir varlık artıyorsa, bu artışın kaynağı mutlaka gösterilmelidir (borç veya öz kaynak).
+- Eğer bir varlık arttıysa ve bu borçla alınmadıysa, **öz kaynaklar artar**.
+- Aksi durumda bilanço denkliği (Aktif = Pasif) bozulur.
+---
+## 4. Bilanço Görselinde Dikkat Çeken Kalem
+- “Kısa Vadeli Diğer Alacaklar” kalemi kırmızıyla çerçevelenmiş.
+- Bu kalemin yıllar içindeki artışı, **detaylı analiz edilmesi gereken bir hareket** olabilir.
+---
+## 5. Sonuç
+- **Aktif = Pasif** denkliği finansal raporlamanın temel taşıdır.
+- Varlıkların nereden geldiğini bilmeden finansal sağlığı ölçmek mümkün değildir.
 
 
