@@ -457,6 +457,7 @@ Bu denklem, muhasebenin temel kuralıdır ve her bilançoda sağlanmalıdır.
 
 # Aktif ve Pasif Varlıklar Karşılaştırma Tablosu
 
+
 | **Kategorisi**  | **Alt Kalem**                 | **Açıklama**                                      | **Örnek Tutar (TL)** |
 
 |----------------|-------------------------------|--------------------------------------------------|-----------------------|
