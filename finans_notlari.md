@@ -449,7 +449,76 @@ Trend analizleri özellikle yatırımcılar için gelecek tahminleri açısında
 > Varlıklar (Aktif) = Kaynaklar (Pasif)
 Bu denklem, muhasebenin temel kuralıdır ve her bilançoda sağlanmalıdır.
 ---
-## 2. Görselde Ne Anlatılıyor?
+
+
+
+
+
+
+# Aktif ve Pasif Varlıklar Karşılaştırma Tablosu
+
+| **Kategorisi**  | **Alt Kalem**                 | **Açıklama**                                      | **Örnek Tutar (TL)** |
+
+|----------------|-------------------------------|--------------------------------------------------|-----------------------|
+
+| **Aktif (Varlıklar)** | Dönen Varlıklar                | 1 yıl içinde paraya çevrilebilen varlıklar       |                       |
+
+|                | Nakit ve Nakit Benzerleri     | Kasa, banka                                      | 50.000                |
+
+|                | Ticari Alacaklar              | Müşterilerden alınacak tutarlar                  | 120.000               |
+
+|                | Stoklar                       | Hammadde, mamul, ticari mal                      | 80.000                |
+
+|                | Diğer Alacaklar               | Kısa vadeli borç verilenler, personel alacakları | 30.000                |
+
+| **Toplam Dönen Varlıklar** |                               |                                                  | **280.000**           |
+
+|                | Duran Varlıklar               | 1 yıldan uzun sürede paraya çevrilen varlıklar   |                       |
+
+|                | Binalar                       | Şirket ofisi veya fabrika                        | 500.000               |
+
+|                | Arazi ve Arsalar              | Satın alınmış araziler                           | 1.000.000             |
+
+|                | Taşıtlar                      | Şirkete ait araçlar                              | 200.000               |
+
+|                | Demirbaşlar                   | Bilgisayar, mobilya                              | 70.000                |
+
+| **Toplam Duran Varlıklar** |                             |                                                  | **1.770.000**         |
+
+| **Toplam Aktif** |                              |                                                  | **2.050.000**         |
+
+---
+
+| **Kategorisi**  | **Alt Kalem**                 | **Açıklama**                                      | **Örnek Tutar (TL)** |
+
+|----------------|-------------------------------|--------------------------------------------------|-----------------------|
+
+| **Pasif (Kaynaklar)** | Kısa Vadeli Borçlar             | 1 yıl içinde ödenecek borçlar                    |                       |
+
+|                | Ticari Borçlar                | Tedarikçilere borçlar                            | 100.000               |
+
+|                | Kredi Borçları                | Bankalardan alınan kısa vadeli krediler          | 80.000                |
+
+| **Toplam Kısa Vadeli Borçlar** |                    |                                                  | **180.000**           |
+
+|                | Uzun Vadeli Borçlar           | 1 yıldan uzun sürede ödenecek borçlar            |                       |
+
+|                | Kredi Borçları                | Uzun vadeli banka kredileri                      | 320.000               |
+
+| **Toplam Uzun Vadeli Borçlar** |                   |                                                  | **320.000**           |
+
+|                | Öz Kaynaklar                  | Ortaklar sermayesi ve geçmiş yıl kârları         |                       |
+
+|                | Ödenmiş Sermaye               | Ortaklarca yatırılmış sermaye                    | 1.000.000             |
+
+|                | Geçmiş Yıl Kârları            | Şirketin önceki yıl net kârı                     | 550.000               |
+
+| **Toplam Öz Kaynaklar** |                        |                                                  | **1.550.000**         |
+
+| **Toplam Pasif** |                              |                                                  | **2.050.000**         |
+> **Not:** Aktif ve pasif toplamları eşittir. Bu, muhasebenin temel denkliğidir:  
+> **Aktif = Pasif**
+
 
 ### Tarih: 31.12.2020 – ABC Ltd.
 - Sol tarafta "Aktif" kısmında **100: Dönen Varlıklar**, **200: Duran Varlıklar** gibi başlıklar yer alıyor.
